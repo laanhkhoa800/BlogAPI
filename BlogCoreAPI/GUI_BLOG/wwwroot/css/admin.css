@@ -1,0 +1,1146 @@
+﻿body {
+    /* position: relative; */
+    margin: 0px;
+    width: 100%;
+    /* height: 4000px; */
+    background-color: gray;
+}
+
+.nav_mainadmin {
+/*    background-color: #333333;*/
+}
+
+.bg-light {
+    margin: 0px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(233, 235, 235);
+}
+
+.imglogo img {
+    /* margin-left: 10px; */
+    width: 80px;
+    height: 50px;
+}
+
+#tk_block {
+    padding: 1px 1px;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
+
+#tk_active {
+    padding: 1px 1px;
+    border: none;
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+}
+
+}
+/* menu content header */
+.nav-item {
+    margin-left: 20px;
+}
+
+.nav:hover {
+    /* color: rgb(255, 255, 255); */
+    color: black;
+}
+
+.nav :active {
+    color: black;
+}
+
+.content {
+    width: 100%;
+}
+
+    .content h3 {
+        color: black;
+    }
+
+.content_ul {
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+
+/* funsiton header */
+
+.sumitsearch {
+    width: 1000px;
+}
+
+.content_search {
+    margin-left: 10px;
+}
+
+.funsion_header {
+    margin-left: 100px;
+}
+
+.bodernone {
+    border: none;
+}
+
+.funsion_header button {
+    border: none;
+    margin-left: 10px;
+}
+
+.funsion_header img {
+    width: 30px;
+    height: 30px;
+}
+
+.icon_fs {
+    width: 20px;
+    height: 15px;
+}
+
+.drp_menu {
+    background-color: black;
+    color: white;
+}
+
+nav {
+    position: absolute;
+    top: 0px;
+    right: 0;
+    z-index: 1;
+    left: 0px;
+}
+
+
+/* page About */
+
+.containers {
+    width: 700px;
+    background-color: aqua;
+    margin-left: 360px;
+    text-align: center;
+}
+
+.conten_about {
+    /* overflow: visible; */
+    margin-top: 20px;
+    text-align: center;
+    /* line-height: 2; */
+    /* word-wrap: break-word; */
+    white-space: pre-line;
+    /* width: 500px; */
+}
+
+.conten_about_2 {
+    margin-top: 10px;
+    text-align: center;
+    white-space: pre-line;
+}
+
+.hr_phone {
+    margin: 0px;
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-left: 20px;
+    background-color: rgb(197, 197, 196);
+}
+
+.hr_content {
+    padding-left: 20px;
+    padding-top: 7px;
+}
+
+.potter {
+    /* text-align: center; */
+    width: 100%;
+}
+
+.mapsStore {
+    text-align: left;
+    padding-left: 25px;
+}
+
+.mapsTore {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.Social_Network {
+    text-align: left;
+    padding-right: 40px;
+}
+
+.cont_about {
+    width: 100%;
+}
+
+.mapsTores {
+    text-align: right;
+}
+
+
+/* coder */
+
+.codeer {
+    text-align: center;
+    opacity: 0.8;
+}
+
+
+/* page accout */
+
+.r_accout div {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.login_acout {
+    color: black;
+    width: 100%;
+}
+
+
+/* page mainadmin */
+
+.Mainadmin {
+    z-index: 0;
+}
+
+.menu_mainadmin {
+    /*  margin-left: 50px;*/
+    /* text-align: center; */
+}
+
+.menu_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    /* background-color: #333; */
+}
+
+    .menu_ul li {
+        float: left;
+    }
+
+
+        /* .dropbtnt {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+} */
+
+        .menu_ul li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+.dropbtnt:hover:not(.active) {
+    background-color: #111;
+}
+
+.menu_ul li a:hover:not(.active) {
+    background-color: #111;
+}
+
+
+/* groupdown */
+
+.dropbtnt {
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    color: white;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-contentt {
+    display: none;
+    position: absolute;
+    background-color: #000000;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(245, 245, 245, 0.2);
+    z-index: 1;
+}
+
+.dropdown-contentt1 {
+    display: none;
+    position: absolute;
+    background-color: #000000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(245, 245, 245, 0.2);
+    z-index: 1;
+}
+
+.dropdown-contentt a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: start;
+}
+
+.dropdown-contentt1 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+    .dropdown-contentt1 a:hover {
+        /* color: rgb(247, 2, 2); */
+        opacity: 0.5;
+    }
+
+.dropdown-contentt a:hover {
+    /* color: rgb(247, 2, 2); */
+    opacity: 0.5;
+}
+
+.dropdown:hover .dropdown-contentt {
+    display: block;
+}
+
+.dropdown:hover .dropdown-contentt1 {
+    display: block;
+}
+
+.dropdownt:hover .dropbtnt {
+    background-color: #3e8e41;
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.user_admin {
+    margin-right: 0px;
+}
+
+/*2222222222222222*/
+html {
+    font-size: 62.5%;
+    font-family: "Abeezee",sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+/*===========================TRANG CHÍNH CỦA ADMIN ========*/
+/*=========================== Header ======================*/
+/*================== ĐỊNH DẠNG THANH MENU ===================*/
+
+
+/* Định dạng thanh điều hướng trên cùng */
+
+.menu {
+    width: 100%;
+    background-color: #394551;
+    height: 50px;
+    z-index: 5;
+}
+
+.body-menu {
+    width: 90%;
+    margin: 0 auto;
+}
+
+    .body-menu > li {
+        float: left;
+        list-style: none;
+        position: relative;
+        z-index: 5;
+    }
+
+        .body-menu > li > a {
+            text-decoration: none;
+            color: #fff;
+            padding: 0px 17px 0px 17px;
+            line-height: 50px;
+            display: block;
+            font-size: 20px;
+            font-weight: 500;
+            z-index: 5;
+        }
+
+
+/* Thay đổi màu liên kết khi di chuột qua */
+.menu li a:hover {
+    background-color: #FFD700;
+    color: black;
+    font-weight: bold
+}
+
+.submenu {
+    width: 250px;
+    background-color: #394551;
+    /*min-height: 100px;*/
+    display: none;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+    .submenu li {
+        list-style: none;
+    }
+
+        .submenu li a {
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            border-top: 1px solid rgba(228, 228, 228, 0.678);
+            line-height: 50px;
+            display: block;
+            text-indent: 15px;
+        }
+
+.body-menu > li:hover .submenu {
+    display: block;
+}
+
+.submenu > li > a:hover {
+    background-color: #FFD700;
+    color: rgb(0, 0, 0);
+}
+
+/*=====================================================*/
+/*======================== CHỈNH LOGO ==================*/
+
+.logo {
+    float: left;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+    .logo > img {
+        width: 65px;
+        height: 40px;
+    }
+
+/*=================== căn phải phần tử admin=================*/
+
+.nameAdmin {
+    position: absolute;
+    right: 50px;
+    line-height: 50px;
+    z-index: 5;
+}
+
+    .nameAdmin > a {
+        color: white;
+        padding: 0px 25px 0px 25px;
+        text-decoration: none;
+        display: block;
+        font-size: 20px;
+        font-weight: 500;
+        z-index: 5;
+    }
+
+.submenu_admin {
+    width: 250px;
+    background-color: #394551;
+    min-height: 100px;
+    display: none;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+    list-style: none;
+}
+
+    .submenu_admin li a {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        border-top: 1px solid rgba(228, 228, 228, 0.678);
+        line-height: 50px;
+        display: block;
+        text-indent: 15px;
+        z-index: 5;
+    }
+
+.nameAdmin a:hover {
+    background-color: #FFD700;
+    color: black;
+    font-weight: bold;
+}
+
+.nameAdmin:hover .submenu_admin {
+    display: block;
+    cursor: pointer;
+}
+
+.submenu_admin > li > a:hover {
+    background-color: FFD700;
+    color: rgb(0, 0, 0);
+}
+/*===========================================================*/
+/*===========================================================*/
+/*===========================================================*/
+
+
+/*===================== Css form Đầu sách =======================*/
+
+.table_DauSach {
+    width: 100%;
+    margin: 0 auto;
+}
+
+    .table_DauSach > tr > th {
+        font-size: 15px;
+        color: aqua;
+    }
+
+.header_search {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+/***************************************/
+/************** đầu sách CSS **********/
+/***************************************/
+
+/****** header *******/
+.Header_Dau_Sach {
+    background-color: #fff;
+    box-shadow: 0px 1px 2px 1px rgba(154, 154, 204, 0.22);
+    height: 55px;
+   
+}
+
+.Dau-sach-header-content {
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 15px;
+    font-family: "Abeezee",sans-serif;
+    font-weight: 600;
+    color: #394551;
+}
+
+.DauSach-btn-search {
+    width: 100%;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 20px;
+    outline: none;
+    border: 1.5px solid rgba(0, 0, 0, 0.493);
+    margin-top: 7px;
+}
+
+    .DauSach-btn-search > input {
+        outline: none;
+        border: none;
+        margin-left: 10px;
+        font-family: "Abeezee",sans-serif;
+        width: 97%;
+    }
+
+.DauSach-btn-add {
+    float: right;
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Abeezee",sans-serif;
+    background-color: #394551;
+    padding: 5px 20px;
+    border-radius: 10px;
+    margin-right: 100px;
+    margin-top: 7px;
+    text-decoration: none;
+}
+
+    .DauSach-btn-add:hover {
+        text-decoration: none;
+        color: white;
+        background-color: #313c47;
+    }
+
+
+
+/************** table ****************/
+.list_DauSach_table {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+    border: none;
+    box-shadow: 0px 1px 2px 1px rgba(154, 154, 204, 0.22);
+    border-radius: 1.5px;
+    margin-top: 100px;
+}
+
+.list_DauSach_table_BC {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+    border: none;
+    box-shadow: 0px 1px 2px 1px rgba(154, 154, 204, 0.22);
+    border-radius: 1.5px;
+    margin-top: 25px;
+}
+
+.table_DauSach {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    .table_DauSach > thead {
+        background-color: black;
+        color: white;
+        font-weight: 400;
+    }
+
+        .table_DauSach > thead > tr > td {
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+.table_baocao {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    .table_baocao > thead {
+        background-color: white;
+        color: black;
+        font-weight: 400;
+    }
+
+        .table_baocao > thead > tr > td {
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+.table_DauSach td {
+    padding: 10px;
+    text-overflow: ellipsis;
+    overflow-x:hidden;
+    
+}
+
+tbody > tr {
+    border-top: 0.5px solid rgba(105, 105, 105, 0.329);
+}
+
+    tbody > tr > td {
+        font-size: 12.5px;
+    }
+
+.icon_status {
+    font-size: 5px;
+    color: red;
+}
+
+.table_DauSach_status {
+    color: black;
+    width: 100px;
+}
+
+.emailKH {
+    width: 220px
+}
+
+.sodienthoaiKH {
+    width: 170px;
+}
+
+.diachiKH {
+    overflow-x: hidden;
+    width: 250px
+}
+
+.tinhtrangHD {
+    width: 90px;
+}
+
+.table_DauSach_btn > a {
+    border: 1px solid rgba(0, 0, 0, 0.322);
+    outline: none;
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 3px;
+    cursor: pointer;
+    color: black;
+}
+
+    .table_DauSach_btn > a:hover,
+    .table_DauSach_btn > a:active {
+        color: white;
+        background-color: #394551;
+    }
+
+tbody > tr:hover {
+    background-color: rgb(236, 236, 236);
+    cursor: pointer;
+}
+
+/* ***** CSS các cột của bảng ***** */
+.table_DauSach_MaSach {
+    width: 120px;
+}
+
+.table_DauSach_SoLuong {
+    width: 80px;
+}
+
+.tenKH {
+    width: 200px;
+}
+
+.table_DauSach_NamXuatBan {
+    width: 110px;
+}
+
+.table_DauSach_ChucNang {
+    width: 220px;
+}
+
+/***************************************/
+/************** change Pass CSS **********/
+/***************************************/
+.changePass_begin {
+    height: 100vh;
+    background-color: rgba(255,255,255,.1);
+}
+
+.changePass {
+    width: 400px;
+    background-color: white;
+    margin: 70px auto;
+    padding: 20px 40px 40px 40px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 50px 1px rgba(0, 0, 0, 0.205);
+}
+
+.header-changePass {
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+    .header-changePass > h5 {
+        text-align: center;
+        color: #007bff;
+        font-size: 25px;
+        padding: 0;
+        margin: 25px 0 0px;
+        font-weight: 600;
+    }
+
+.changePass-field {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(153, 153, 153, 0.432);
+}
+
+.changePass-input {
+    border: 0;
+    padding: 0 0 0 15px;
+    background-color: black;
+    outline: none;
+    font-family: "Abeezee",sans-serif;
+    width: 100%;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.705);
+}
+
+.changePass-submit {
+    color: white;
+    border-radius: 10px;
+    display: block;
+    width: 100%;
+    padding: 15px 10px;
+    border: 0;
+    background-color: black;
+    cursor: pointer;
+    font-family: "Abeezee",sans-serif;
+    font-size: 17px;
+    outline: none;
+}
+
+.changePass-input-pass {
+    margin-bottom: 0px;
+}
+
+.changePass-submit:hover {
+    opacity:0.7;
+}
+
+.home_back {
+    text-decoration: none;
+    display: inline-block;
+    color: #229b6a;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 10px 15px 10px 0px;
+    margin-left: 10px;
+}
+
+.page_login {
+    text-decoration: none;
+    display: inline-block;
+    text-align: right;
+    color: #229b6a;
+    font-weight: 600;
+    font-size: 13px;
+    margin-left: 85px;
+}
+
+.mess-error-changePass {
+    color: red;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+/*============================================*/
+/*=============== Thêm đầu sách ===============*/
+/*============================================*/
+
+.Them-Dau-sach-header-content {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 24px;
+    font-family: "Abeezee",sans-serif;
+    font-weight: 600;
+    color: #394551;
+}
+
+
+.ThemDauSach-field {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(153, 153, 153, 0.432);
+}
+
+.ThemDauSach-input {
+    border: 0;
+    padding: 0 0 0 15px;
+    background-color: transparent;
+    outline: none;
+    font-family: "Abeezee",sans-serif;
+    width: 100%;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.705);
+}
+
+.ThemDauSach-img > img {
+    width: 100px;
+}
+
+.mess-suss-ThemDauSach {
+    /*color: #229b6a;*/
+    color: red;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.title-SuaDauSach {
+    margin-bottom: 0px;
+    margin-left: 10px;
+    font-size: 13px;
+    color: rgb(0, 0, 192);
+    font-family: "Abeezee",sans-serif;
+}
+
+/*============================================*/
+/*============== Sách ==============*/
+/*============================================*/
+
+.sach-GhiChu {
+    width: 250px;
+}
+/*============================================*/
+/*==============   Nhập sách   ==============*/
+/*============================================*/
+
+h4 {
+    display: inline;
+    font-size: 20px;
+    font-family: "Abeezee",sans-serif;
+}
+
+.NhapSach-TenSach, .NhapSach-MaSach, .NhapSach-TinhTrang {
+    margin-left: 5px;
+    margin-bottom: 7px;
+}
+
+.NhapSach-TenSach-conten {
+    font-size: 22px;
+    font-weight: bold;
+    color: #229B6A;
+}
+
+.NhapSach-TinhTrang > select {
+    font-size: 17px;
+    outline: none;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 3px;
+}
+
+.NhapSach-SoKiemSoat {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+    .NhapSach-SoKiemSoat > input {
+        font-size: 17px;
+    }
+
+.NhapSach-GhiChu {
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 5px;
+    outline: none;
+    font-family: "Abeezee",sans-serif;
+    color: #4B4B4B;
+    margin-bottom: 10px;
+}
+/*============================================*/
+/*============== Yêu cầu mở thẻ TV==============*/
+/*============================================*/
+
+.theTV-btn > a {
+    border: 1px solid rgba(0, 0, 0, 0.322);
+    outline: none;
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 3px;
+    cursor: pointer;
+    color: black;
+}
+
+.theTV-btn > .suss:hover,
+.theTV-btn > .suss:active {
+    color: white;
+    background-color: #009431;
+    border: 1px solid #009431;
+}
+
+.theTV-btn > .del:hover,
+.theTV-btn > .del:active {
+    color: white;
+    background-color: #940000;
+    border: 1px solid #940000;
+}
+
+/*============================================*/
+/*============== danh sách thẻ TV==============*/
+/*============================================*/
+
+
+.theTV-btn > .fix:hover,
+.theTV-btn > .fix:active {
+    color: white;
+    background-color: #009431;
+    border: 1px solid #009431;
+}
+
+.theTV-btn > .block:hover,
+.theTV-btn > .block:active {
+    color: white;
+    background-color: #e2de00;
+    border: 1px solid #e2de00;
+    color: black;
+}
+
+.theTV-btn > .del:hover,
+.theTV-btn > .del:active {
+    color: white;
+    background-color: #940000;
+    border: 1px solid #940000;
+}
+/*============================================*/
+/*=========  Hiển thị thông báo ==============*/
+/*============================================*/
+
+.Message_suss {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin: 5px auto;
+}
+
+    .Message_suss > h5 {
+        text-align: center;
+        color: #009e28;
+        font-size: 13px;
+        margin: 0px;
+    }
+/**********************************/
+/********** Register thẻ thư viện CSS **********/
+/**********************************/
+
+.register {
+    width: 400px;
+    background-color: white;
+    margin: 50px auto;
+    padding: 20px 40px 40px 40px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 50px 1px rgba(0, 0, 0, 0.205);
+}
+
+.header-register > h5 {
+    text-align: center;
+    color: #007bff;
+    font-size: 25px;
+    padding: 0;
+    margin: 25px 0 0px;
+    font-weight: 600;
+}
+
+.register-field {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(153, 153, 153, 0.432);
+}
+
+.register-icon {
+    color: rgba(0, 0, 0, 0.705);
+    font-size: 16px;
+    width: 20px;
+    text-align: center;
+}
+
+.register-input {
+    border: 0;
+    padding: 0 0 0 15px;
+    background-color: transparent;
+    outline: none;
+    font-family: "Abeezee",sans-serif;
+    width: 100%;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.705);
+}
+
+.register-submit {
+    color: rgb(241, 241, 241);
+    border-radius: 10px;
+    display: block;
+    width: 100%;
+    padding: 15px 10px;
+    border: 0;
+    background-color: #25b37a;
+    cursor: pointer;
+    font-family: "Abeezee",sans-serif;
+    font-size: 17px;
+    outline: none;
+}
+
+.register-input-pass {
+    margin-bottom: 0px;
+}
+
+.register-submit:hover {
+    background-color: #229b6a;
+}
+
+.home_back {
+    text-decoration: none;
+    display: inline-block;
+    color: #229b6a;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 10px 15px 10px 0px;
+    margin-left: 10px;
+}
+
+.page_login {
+    text-decoration: none;
+    display: inline-block;
+    text-align: right;
+    color: #229b6a;
+    font-weight: 600;
+    font-size: 13px;
+    margin-left: 85px;
+}
+
+
+/*Page ds_don dặt hàng*/
+.tinhtrangdonhang_don {
+    padding: 4px 7px;
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+}
+
+.tinhtrangdonhang_lendon {
+    padding: 4px 7px;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}
+
+.tinhtrangHD {
+    width: 110px;
+}
+
+.tinhtrangdonhang_danggiao {
+    padding: 4px 7px;
+    color: black;
+    border-radius: 8px;
+}
+
+
+
+.thongke_baocao {
+    padding: 2px 7px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+.thongke_baocao_new {
+    padding: 4px 12px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: aliceblue;
+}
+
+.thongke_baocao:hover {
+    opacity: 0.5;
+}

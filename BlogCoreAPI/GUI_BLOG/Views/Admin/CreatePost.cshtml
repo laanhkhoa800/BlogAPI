@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewBag.Title = "Create Post";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+    function CreatePost() {
+        var newData = {
+            "AuthorID": $('#authorID1').val(),
+            "ParentID": $('#parentID1').val(),
+            "Title": $('#title1').val(),
+            "MetaTile": $('#metaTile1').val(),
+            "Slug": $('#slug1').val(),
+            "Sumary": $('#sumary1').val(),
+            "Published": $('#published1').val(),
+            "Content": $('#content1').val(),
+        }
+        var dataJson = JSON.stringify(newData);
+        console.log(dataJson);
+        $.ajax({
+            type: "POST",
+            datatype: "json",
+            url: "https://localhost:5000/Admin/CreatePost",
+            contentType: "application/json; charset=utf-8",
+            data: dataJson,
+            success: function (result) {
+                alert("Create Success");
+                window.location.href = "/Admin/HomePageAdmin";
+                $("html").append(completeHtmlPage);
+            },
+            error: function () {
+                alert("Create Post fail!");
+            }
+        });
+    }
+</script>
+
+
+<div class="Header_Dau_Sach">
+    <div class="row align-items-center ">
+        <div class="col-md-4 ">
+
+        </div>
+        <div class="col-md-4">
+            <h3 class="Them-Dau-sach-header-content"> Create Post</h3>
+        </div>
+        <div class="col-md-4">
+            <a class="DauSach-btn-add" href="@Url.Action("HomePageAdmin","Admin")"> <i class="fas fa-chevron-left"></i> Return</a>
+        </div>
+    </div>
+</div>
+    <div class="login_register">
+        <div class="changePass">
+            <form>
+                <div class="ThemDauSach-field ">
+                    <i class="fa fa-barcode"></i>
+                    <input type="text" class="ThemDauSach-input " placeholder="authorID post" required id="authorID1" name="authorID">
+                </div>
+                <div class="ThemDauSach-field ">
+                    <i class="fa fa-barcode"></i>
+                    <input type="text" class="ThemDauSach-input " placeholder="parentID post" required id="parentID1" name="parentID">
+                </div>
+
+                <div class="ThemDauSach-field ">
+                    <i class="fas fa-window-maximize"></i>
+                    <input type="text" class="ThemDauSach-input " placeholder="title post" required id="title1" name="title">
+                </div>
+                <div class="ThemDauSach-field ">
+                    <i class="fas fa-window-restore"></i>
+                    <input type="text" class="ThemDauSach-input " placeholder="meta title" required id="metaTile1" name="metaTile">
+                </div>
+                <div class="ThemDauSach-field ">
+                    <i class="fas fa-window-restore"></i>
+                    <input type="text" class="ThemDauSach-input " placeholder="meta title" required id="slug1" name="slug">
+                </div>
+                <div class="ThemDauSach-field ">
+                    <i class="fab fa-amilia"></i>
+                    <input type="text" class="ThemDauSach-input " placeholder="sumary" required id="sumary1" name="sumary">
+                </div>
+                <div class="ThemDauSach-field ">
+                    <i class="fas fa-money"></i>
+                    <input type="text" class="ThemDauSach-input " placeholder="int published" required id="published1" name="published">
+                </div>
+
+
+                <div class="ThemDauSach-field ">
+                    <i class="fas fa-file"></i>
+                    <textarea type="text" class="ThemDauSach-input " placeholder="content post" required id="content1" name="content"></textarea>
+                </div>
+            
+                <button type="submit" onclick="CreatePost()" class="changePass-submit">Add Post</button>
+            </form>
+        </div>
+    </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+
+

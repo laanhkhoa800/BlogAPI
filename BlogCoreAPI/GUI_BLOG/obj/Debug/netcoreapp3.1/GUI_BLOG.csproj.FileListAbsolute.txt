@@ -1,0 +1,106 @@
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.exe
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.deps.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.runtimeconfig.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.runtimeconfig.dev.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.Views.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.Views.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.csproj.AssemblyReference.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.AssemblyInfoInputs.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.AssemblyInfo.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.csproj.CoreCompileInputs.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorAssemblyInfo.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorAssemblyInfo.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\staticwebassets\GUI_BLOG.StaticWebAssets.Manifest.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\staticwebassets\GUI_BLOG.StaticWebAssets.xml
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\scopedcss\bundle\GUI_BLOG.styles.css
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.TagHelpers.input.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.TagHelpers.output.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorCoreGenerate.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\about.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\Blog.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetaiAccount.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetailPost.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\features.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\MyPost.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\RegisterUser.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\Test.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreatePost.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllUser.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\HomePageAdmin.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_layoutAdmin.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorTargetAssemblyInfo.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorTargetAssemblyInfo.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.Views.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.genruntimeconfig.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.csproj.CopyComplete
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\AddNewPost.cshtml.g.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\LoginAdmin.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.exe
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.deps.json
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.runtimeconfig.json
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.runtimeconfig.dev.json
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.dll
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.pdb
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.Views.dll
+D:\BlogCoreAPI\GUI_BLOG\bin\Debug\netcoreapp3.1\GUI_BLOG.Views.pdb
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.csproj.AssemblyReference.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.AssemblyInfoInputs.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.AssemblyInfo.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.csproj.CoreCompileInputs.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.MvcApplicationPartsAssemblyInfo.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorAssemblyInfo.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorAssemblyInfo.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\staticwebassets\GUI_BLOG.StaticWebAssets.Manifest.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\staticwebassets\GUI_BLOG.StaticWebAssets.xml
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\scopedcss\bundle\GUI_BLOG.styles.css
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.TagHelpers.input.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.TagHelpers.output.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorCoreGenerate.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\about.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\AddNewPost.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\Blog.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetaiAccount.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\DetailPost.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\features.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\MyPost.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\RegisterUser.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Account\Test.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreatePost.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAllUser.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\HomePageAdmin.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Admin\LoginAdmin.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_layoutAdmin.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorTargetAssemblyInfo.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.RazorTargetAssemblyInfo.cs
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.Views.pdb
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.dll
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.pdb
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.genruntimeconfig.cache
+D:\BlogCoreAPI\GUI_BLOG\obj\Debug\netcoreapp3.1\GUI_BLOG.csproj.CopyComplete

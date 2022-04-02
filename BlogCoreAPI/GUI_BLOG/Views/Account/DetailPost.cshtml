@@ -1,0 +1,208 @@
+﻿@{
+    ViewBag.Title = "Detail Blog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <link href="~/css/detailPost.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        .btn_submitcomment{
+            background-color:cornflowerblue;
+            color:white;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        function AddComment(id){
+            var newData = {
+                "PostID": id,
+                "Content": $('#content').val(),
+            }
+            console.log(newData);
+            alert(newData);
+            var dataJson = JSON.stringify(newData);
+            console.log(dataJson);
+            $.ajax({
+                type: "POST",
+                datatype: "json",
+                url: "https://localhost:5000/Account/CreateComment",
+                contentType: "application/json; charset=utf-8",
+                data: dataJson,
+                success: function (result) {
+                    if (result.StatusCode == 200) {
+                        window.location.href = "/";
+                        console.log(data); //just to show that it went through
+                    } else {
+                        alert("Create Post fail!");
+                    }
+                }
+            });
+        }
+
+            $.ajax({
+                url: "https://localhost:5000/Admin/GetPostById/"+@ViewBag.id,
+                type: "GET",
+                success: function (rs) {
+                    console.log(rs);
+                    var str = "";
+                    $.each(rs, function (i, item) {
+                        $('#load_data').append(`
+                          <div>
+                            <div class="about_img"><img src="./${item.slug}"></div>
+                            <div class="like_icon"><img src="./images/like-icon.png"></div>
+                            <p class="post_text">Post By : ${item.createAT}</p>
+                            <h2 class="most_text">${item.title}</h2>
+                            <p class="lorem_text">${item.content}</p>
+                        </div>`);
+                    });
+                }
+            });
+            ///GET comment of post
+            $.ajax({
+                url: "https://localhost:5000/Account/GetCommentByPost/"+@ViewBag.id,
+                type: "GET",
+                data: @ViewBag.id,
+                success: function (rs) {
+                    console.log(rs);
+                    var str = "";
+                    $.each(rs, function (i, item) {
+                        $('#load_DataComment').append(`
+                                <div>
+                                
+                                <div class="media-body">
+                                    <h4 class="media-heading">John Doe</h4>
+                                    <p>${item.content}</p>
+                                    <ul class="list-unstyled list-inline media-detail pull-left">
+                                        <li><i class="fa fa-calendar"></i>${item.createAT}</li>
+                                    </ul>
+                                    <ul class="list-unstyled list-inline media-detail pull-right">
+                                        <div class="row">
+                                            <div class="col-sm-2 col-lg-1 hidden-xs">
+                                                  
+                                            </div>
+                                            <div class="col-sm-1 col-lg-1 hidden-xs">
+                                                    <img class="img-responsive" src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">
+                                            </div>
+                                            <div class="form-group col-xs-10 col-sm-9 col-lg-10">
+                                                <div class="row">
+                                                    <textarea class="form-control2" id="message" placeholder="Your message" required=""></textarea>
+                                                    <button type="submit"  class="btn_submitcomment">Submit</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </ul>
+                                </div>
+                                </div>`);
+                    });
+                }
+            });
+    </script>
+    <!-- blog section start -->
+    <div class="about_section layout_padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-sm-12">
+                    <div id="load_data">
+
+                    </div>               
+                    <div class="social_icon_main">
+                        <div class="social_icon">
+                            <ul>
+                                <li><a href="#"><img src="~/images/fb-icon.png"></a></li>
+                                <li><a href="#"><img src="~/images/twitter-icon.png"></a></li>
+                                <li><a href="#"><img src="~/images/instagram-icon.png"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-12">
+                    <div class="about_main">
+                        <h1 class="follow_text">COMMENTS & FOLLOW</h1>
+                        <div class="content-item" id="comments">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="row">
+                                            <div class="col-sm-3 col-lg-2 hidden-xs">
+                                                <img class="img-responsive" src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">
+                                            </div>
+                                            <form>
+                                                <div class="form-group col-xs-12 col-sm-9 col-lg-10">
+                                                    <textarea class="form-control" id="content" name="message" placeholder="Your message" required=""></textarea>
+                                                    <button type="submit" onclick="AddComment(@ViewBag.id)" class="btn btn-normal pull-right">Submit</button>
+                                                </div>
+                                            </form>
+                                        </div>
+                    
+                                        <div class="media">
+                                            <div id="load_DataComment">
+
+                                            </div>
+                                        </div>
+                                        <!-- COMMENT 1 - START -->
+                                       @* <div class="media">
+                                            <a class="pull-left" href="#"><img class="media-object" src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""></a>
+                                            <div class="media-body">
+                                                <h4 class="media-heading">John Doe</h4>
+                                                <p>Lorem ipsum dolor sit amet</p>
+                                                <ul class="list-unstyled list-inline media-detail pull-left">
+                                                    <li><i class="fa fa-calendar"></i>27/02/2014</li>
+                                                </ul>
+                                                <ul class="list-unstyled list-inline media-detail pull-right">
+                                                    <div class="row">
+                                                        <div class="col-sm-3 col-lg-2 hidden-xs">
+                                                               <img class="img-responsive" src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">
+                                                        </div>
+                                                        <div class="form-group col-xs-12 col-sm-9 col-lg-10">
+                                                            <div class="row">
+                                                                <textarea class="form-control2" id="message" placeholder="Your message" required=""></textarea>
+                                                                <button type="submit" class="btn btn-normal pull-right">Submit</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </ul>
+                                            </div>
+                                        </div>*@
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- blog section end -->
+        <!-- footer section start -->
+        <div class="footer_section layout_padding margin_top_90">
+            <div class="container">
+                <div class="footer_logo"><a href="index.html"><img src="~/images/footer-logo.png"></a></div>
+                <div class="footer_menu">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="features.html">Features</a></li>
+                        <li><a href="contact.html">contact us</a></li>
+                    </ul>
+                </div>
+                <div class="contact_menu">
+                    <ul>
+                        <li><a href="#"><img src="~/images/call-icon.png"></a></li>
+                        <li><a href="#">Call : +01 1234567890</a></li>
+                        <li><a href="blog.html"><img src="~/images/mail-icon.png"></a></li>
+                        <li><a href="features.html">demo@gmail.com</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- footer section end -->
+        <!-- copyright section start -->
+        <div class="copyright_section">
+            <div class="container">
+                <p class="copyright_text">Copyright 2020 All Right Reserved By.<a href="https://html.design"> Free  html Templates</a></p>
+            </div>
+        </div>
+       
+      </div>
+</body>

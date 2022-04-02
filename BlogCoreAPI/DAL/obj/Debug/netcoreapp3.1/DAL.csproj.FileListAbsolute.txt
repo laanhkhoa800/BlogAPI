@@ -1,0 +1,30 @@
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\BlogCoreAPI.Migrations.createdb.resources
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.GenerateResource.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\BlogCoreMVC.Migrations.createdb.resources
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.GenerateResource.cache
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\BlogCoreAPI\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\BlogCoreAPI\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

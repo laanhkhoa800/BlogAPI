@@ -1,0 +1,32 @@
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.deps.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.runtimeconfig.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.runtimeconfig.dev.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.csproj.AssemblyReference.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfoInputs.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfo.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.csproj.CoreCompileInputs.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.csproj.CopyComplete
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.genruntimeconfig.cache
+D:\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.deps.json
+D:\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.runtimeconfig.json
+D:\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.runtimeconfig.dev.json
+D:\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.dll
+D:\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\LOGIC.pdb
+D:\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\DAL.dll
+D:\BlogCoreAPI\Logic\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.csproj.AssemblyReference.cache
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfoInputs.cache
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.AssemblyInfo.cs
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.csproj.CoreCompileInputs.cache
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.csproj.CopyComplete
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.dll
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.pdb
+D:\BlogCoreAPI\Logic\obj\Debug\netcoreapp3.1\LOGIC.genruntimeconfig.cache

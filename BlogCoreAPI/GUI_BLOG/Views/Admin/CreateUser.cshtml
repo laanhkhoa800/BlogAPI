@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewBag.Title = "Create Post";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+    function CreateUser() {
+        var newData = {
+            "firstName": $('#firstName').val(),
+            "middleName": $('#middleName').val(),
+            "lastName": $('#lastName').val(),
+            "mobile": $('#mobile').val(),
+            "email": $('#email').val(),
+            "passWord": $('#passWord').val(),
+            "intro": $('#intro').val(),
+            "profile": $('#profile').val(),
+            "role": $('#role').val(),
+        }
+        console.log(newData);
+        var dataJson = JSON.stringify(newData);
+        console.log(dataJson);
+        $.ajax({
+            type: "POST",
+            datatype: "json",
+            url: "https://localhost:5000/Admin/CreateUserItem",
+            contentType: "application/json; charset=utf-8",
+            data: dataJson,
+            success: function (result) {
+                alert("Create Success");
+                window.location.href = "/Admin/GetAllUSer";
+                $("html").append(completeHtmlPage);
+            },
+            error: function () {
+                alert("Create Fail!");
+            }
+        });
+    }
+</script>
+<div class="Header_Dau_Sach">
+    <div class="row align-items-center ">
+        <div class="col-md-4 ">
+
+        </div>
+        <div class="col-md-4">
+            <h3 class="Them-Dau-sach-header-content"> Create User</h3>
+        </div>
+        <div class="col-md-4">
+            <a class="DauSach-btn-add" href="@Url.Action("GetAllUser","Admin")"> <i class="fas fa-chevron-left"></i> Return</a>
+        </div>
+    </div>
+</div>
+<div class="login_register">
+    <div class="changePass">
+        <form>
+            <div class="ThemDauSach-field ">
+                <i class="fa fa-barcode"></i>
+                <input type="text" class="ThemDauSach-input " placeholder="firstName user" required id="firstName" name="firstName">
+            </div>
+            <div class="ThemDauSach-field ">
+                <i class="fa fa-barcode"></i>
+                <input type="text" class="ThemDauSach-input " placeholder="middleName user" required id="middleName" name="middleName">
+            </div>
+
+            <div class="ThemDauSach-field ">
+                <i class="fas fa-window-maximize"></i>
+                <input type="text" class="ThemDauSach-input " placeholder="lastName user" required id="lastName" name="lastName">
+            </div>
+            <div class="ThemDauSach-field ">
+                <i class="fas fa-window-restore"></i>
+                <input type="text" class="ThemDauSach-input " placeholder="mobile user" required id="mobile" name="mobile">
+            </div>
+            <div class="ThemDauSach-field ">
+                <i class="fas fa-window-restore"></i>
+                <input type="text" class="ThemDauSach-input " placeholder="email user" required id="email" name="email">
+            </div>
+            <div class="ThemDauSach-field ">
+                <i class="fab fa-amilia"></i>
+                <input type="password" class="ThemDauSach-input " placeholder="passWord user" required id="passWord" name="passWord">
+            </div>
+            <div class="ThemDauSach-field ">
+                <i class="fas fa-file"></i>
+                <textarea type="text" class="ThemDauSach-input " placeholder="intro user" required id="intro" name="intro"></textarea>
+            </div>
+            <div class="ThemDauSach-field ">
+                <i class="fas fa-money"></i>
+                <input type="text" class="ThemDauSach-input " placeholder="profile user" required id="profile" name="profile">
+            </div>
+            <div class="ThemDauSach-field ">
+                <i class="fas fa-money"></i>
+                <input type="text" class="ThemDauSach-input " placeholder="role user" required id="role" name="role">
+            </div>
+   
+            <button type="submit" onclick="CreateUser()" class="btn btn-link changePass-submit">Add Post</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,330 @@
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.exe
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.deps.json
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.runtimeconfig.json
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.runtimeconfig.dev.json
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.pdb
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.csproj.AssemblyReference.cache
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.AssemblyInfoInputs.cache
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.AssemblyInfo.cs
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.csproj.CoreCompileInputs.cache
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\BlogCoreAPI.StaticWebAssets.Manifest.cache
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\BlogCoreAPI.StaticWebAssets.xml
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogCoreAPI.styles.css
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.RazorTargetAssemblyInfo.cache
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.dll
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.pdb
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.genruntimeconfig.cache
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.csproj.CopyComplete
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.exe
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.deps.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.runtimeconfig.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.runtimeconfig.dev.json
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\BlogCoreAPI.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\LOGIC.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\LOGIC.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.csproj.AssemblyReference.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.AssemblyInfoInputs.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.AssemblyInfo.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\BlogCoreAPI.StaticWebAssets.Manifest.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\BlogCoreAPI.StaticWebAssets.xml
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlogCoreAPI.styles.css
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.csproj.CopyComplete
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.dll
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.pdb
+C:\Users\laanh\OneDrive\Máy tính\BlogCoreAPI\BlogCoreAPI\obj\Debug\netcoreapp3.1\BlogCoreAPI.genruntimeconfig.cache
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\DAL.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\LOGIC.dll
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\BlogCoreAPI\BlogCoreAPI\bin\Debug\netcoreapp3.1\LOGIC.pdb

@@ -1,0 +1,169 @@
+﻿@{
+    ViewBag.Title = "My Post";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+
+<head>
+    <style>
+        .btn_login {
+            margin-top: 20px;
+            background-color: black;
+            color: white;
+            padding: 10px 70px;
+            border-radius: 10px;
+        }
+    </style>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Contact</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- fevicon -->
+    <link rel="icon" href="images/fevicon.png" type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <!-- owl stylesheets -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesoeet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    
+</head>
+
+<body>
+    <script>
+        var newData = '@User.Identity.Name';
+        $.ajax({
+            type: "POST",
+            datatype: "json",
+            url: "https://localhost:5000/Account/GetMyPost",
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify({ 'email': '@User.Identity.Name'}),
+            success: function (rs) {
+                console.log(rs);
+                var str = "";
+                $.each(rs, function (i, item) {
+                    $('#load_data').append(`
+                    <tr>
+                        <td>${item.postID}</td>
+                        <td>${item.authorID}</td>
+                        <td>${item.parentID}</td>
+                        <td><img src="${item.slug}" alt="ismg_sanPham" style="width:39px;height:39px" /></td>
+                        <td>${item.title}</td>
+                        <td>${item.sumary}</td>
+                        <td>${item.createAT}</td>
+                        <td>${item.updateAT}</td>
+                        <td>${item.content}</td>
+                        <td class="table_DauSach_btn">
+                           <button type="button" onclick="UpdatePost('${item.postID}')" class="btn btn-warning">EDIT</button>
+                           <button type="button" onclick="DeletePost('${item.postID}')" class="btn btn-danger">DELETE</button>
+
+                        </td>
+                    </tr>`);
+
+                });
+            }
+            });
+        function DeletePost(id) {
+            $.ajax({
+                type: "DELETE",
+                datatype: "json",
+                url: 'https://localhost:5000/Admin/DeletePost',
+                contentType: "application/json; charset=utf-8",
+                data: id,
+                success: function (completeHtmlPage) {
+                    alert("Delete Success");
+                    window.location.href = "/";
+                    $("html").append(completeHtmlPage);
+
+                },
+                error: function () {
+                    alert("Delete Fail!");
+                }
+            });
+        }
+        function UpdatePost(id) {
+            $.ajax({
+                type: "PUT",
+                datatype: "json",
+                url: 'https://localhost:5000/Admin/DeletePost' + id,
+                contentType: "application/json; charset=utf-8",
+                data: id,
+                success: function (completeHtmlPage) {
+                    alert("Uodate Success");
+                    window.location.href = "/";
+                    $("html").append(completeHtmlPage);
+
+                },
+                error: function () {
+                    alert("Uodate Fail!");
+                }
+            });
+        }
+    </script>
+
+
+    <!-- tag section start -->
+    <div class="tag_section layout_padding">
+        <div class="container">
+            <h1 class="tag_taital">Tag</h1>
+            <div class="tag_bt">
+                <ul>
+                    <li class="active"><a href="#">Ectetur</a></li>
+                    <li><a href="#">My Post</a></li>
+                    <li><a href="#">Change</a></li>
+                    <li><a href="#">New Post</a></li>
+                    <li><a href="#">Follow</a></li>
+                </ul>
+            </div>
+            <div class="tag_bt_2">
+                <ul>
+                    <li><a href="#">Tetur</a></li>
+                    <li><a href="#">Conse</a></li>
+                    <li><a href="#">Nsectetur</a></li>
+                    <li><a href="#">Sectetur</a></li>
+                    <li><a href="#">Consectetur</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="list_DauSach_table">
+        <table class="table_DauSach">
+            <thead>
+                <tr>
+                    <td>ID</td>
+                    <td>AuthorID</td>
+                    <td>ParentID</td>
+                    <td class="table_DauSach_SoLuong">slug</td>
+                    <td class="table_DauSach_NamXuatBan">title</td>
+                    <td class="table_DauSach_NamXuatBan">sumary</td>
+                    <td class="table_DauSach_NamXuatBan">createAT</td>
+                    <td class="table_DauSach_NamXuatBan">updateAt</td>
+                    <td class="table_DauSach_ChucNang">Content</td>
+                    <td class="table_DauSach_ChucNang"></td>
+                </tr>
+            </thead>
+            <tbody id="load_data">
+
+            </tbody>
+        </table>
+    </div>
+</body>

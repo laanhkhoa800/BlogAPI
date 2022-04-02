@@ -1,0 +1,97 @@
+﻿@{
+    ViewBag.Title = "Home page Admin";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<body>
+    <script>
+        $(document).ready(function () {
+            loadData();
+        });
+        function loadData() {
+            $.ajax({
+                url: "https://localhost:5000/Admin/GetAllUser",
+                type: "GET",
+                success: function (rs) {
+                    console.log(rs);
+                    var str = "";
+                    $.each(rs, function (i, item) {
+                        $('#load_data').append(`<tr>
+                            <td>${item.firstName} ${item.middleName} ${item.lastName}</td>
+                            <td>${item.mobile}</td>
+                            <td>${item.email}</td>
+                            <td>${item.passWord}</td>
+                            <td>${item.registered}</td>
+                            <td>${item.intro}</td>
+                            <td>${item.profile}</td>
+                            <td>${item.role}</td>
+                            <td class="table_DauSach_btn">
+                               <button type="button" onclick="UpdateUser('${item.userID}')" class="btn btn-warning">EDIT</button>
+                               <button type="button" onclick="DeleteUser('${item.userID}')" class="btn btn-danger">DELETE</button>
+                            </td>
+                        </tr>`);
+
+                    });
+                }
+            });
+        }
+        //DeleteUser
+        function DeleteUser(id) {
+            $.ajax({
+                type: "DELETE",
+                datatype: "json",
+                url: 'https://localhost:5000/Admin/DeleteUser/'+id,
+                contentType: "application/json; charset=utf-8",
+                data: id,
+                success: function (completeHtmlPage) {
+                    alert("Delete Success");
+                    window.location.href = "/Admin/GetAllUSer";
+                    $("html").append(completeHtmlPage);
+
+                },
+                error: function () {
+                    alert("Delete Fail!");
+                }
+            });
+        }
+    </script>
+    <div class="Header_Dau_Sach" style="">
+        <div class="row align-items-center ">
+            <div class="col-md-4 ">
+                <h3 class="Dau-sach-header-content"> List All User</h3>
+            </div>
+            <div class="col-md-4 DauSach-btn-search">
+                @*search post type string value*@
+                @* @using (Html.BeginForm("GetMyPost", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+                        <input style="border:none;" type="search" name="search" placeholder="Search....">
+                    }*@
+            </div>
+            <div class="col-md-4">
+                <a class="DauSach-btn-add" href="@Url.Action("CreateUser","Admin")">New User</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="list_DauSach_table" style="height: 500px;">
+        <table class="table_DauSach">
+            <thead>
+                <tr>
+
+                    <td>Name User</td>
+                    <td>Mobile</td>
+                    <td>Email</td>
+                    <td class="table_DauSach_SoLuong">passWord</td>
+                    <td class="table_DauSach_NamXuatBan">Registered</td>
+                    <td class="table_DauSach_NamXuatBan">Intro</td>
+                    <td class="table_DauSach_NamXuatBan">profile</td>
+                    <td>Role</td>
+                    <td></td>
+                </tr>
+            </thead>
+            <tbody id="load_data">
+            </tbody>
+        </table>
+    </div>
+</body>
